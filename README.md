@@ -4,6 +4,6 @@ In our research project titled “AI-engineered AAV delivers anti-VEGF-A therapy
 Moreover, to meet the needs of users for more efficient and batch prediction, we have carefully designed and developed a corresponding API interface. Users can call this API interface through code to easily achieve batch prediction of the yields of multiple AAV variants. In this project, we have not only provided a detailed introduction to the format specifications of the API interface but also demonstrated its usage through specific examples, ensuring that users can quickly get started and fully utilize this powerful tool.
 
 # Usage
-The `figure_data` and `script` folders contain the data and code used in Figures 2b–2g of the manuscript and in Extended Data Figures 3a–3b.
+The `figure_data` and `script` folders contain the data and code used for Figures 2b–2g in the manuscript and Extended Data Figures 3a–3b.
 
 To be updated soon...
